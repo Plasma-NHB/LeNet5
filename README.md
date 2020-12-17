@@ -1,4 +1,4 @@
-# -_nhb
+# -nhb_mnist_set_build
 使用Tensorflow和Keras搭建卷积神经网络来识别手写体数字集Mnist，并保存模型
 利用模型对自己的手写体进行识别
 识别成功率达到99.39%
